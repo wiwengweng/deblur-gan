@@ -1,0 +1,6 @@
+weights/
+images/
+venv/
+__pycache__/
+GOPRO_Large/
+GOPRO_Large.zip
