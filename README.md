@@ -44,4 +44,4 @@ python deblur_image.py --image_path=path/to/image
 And here is one demo, but full of grids, which is so called 'checkerboard artifacts'.
 [Result link](https://github.com/wiwengweng/deblur-gan/blob/master/deblur20180808143508.jpg)
 
-![image][https://github.com/wiwengweng/deblur-gan/blob/master/deblur20180808143508.jpg]
+![Result image](https://github.com/wiwengweng/deblur-gan/blob/master/deblur20180808143508.jpg)
